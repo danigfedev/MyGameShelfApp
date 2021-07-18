@@ -7,6 +7,6 @@ My Game Shelf App is an Android application for keeping track of your personal v
 
 # Dependencies
 
-* Text Mesh Pro
+* **Text Mesh Pro**
 To import Text Mesh Pro in project, follow Unity's instructions:
 https://learn.unity.com/tutorial/textmesh-pro-importing-the-package#
