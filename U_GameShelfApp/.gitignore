@@ -12,6 +12,7 @@
 
 #IGDB auth token:
 /Assets/0-GameShelf_Assets/Scripts/IGDB/Comms/IGDB_RequestHeaders.cs
+/Assets/0-GameShelf_Assets/Scripts/IGDB/Comms/IGDB_RequestHeaders.cs.meta
 
 #Text Mesh Pro package
 /Assets/TextMesh Pro/
