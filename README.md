@@ -20,7 +20,7 @@ To import Text Mesh Pro in project, follow Unity's instructions:
 https://learn.unity.com/tutorial/textmesh-pro-importing-the-package#
 
 
-# 2- Web Services
+## 2- Web Services
 
 A PHP script for handling app authentication. At the moment of writing, it just connects to IGDB retrieving some hardcoded data.
 
