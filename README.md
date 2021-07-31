@@ -15,8 +15,7 @@ The app's source code. At the moment of writing only the searching functionality
 
 ### Dependencies
 
-* **Text Mesh Pro**
-To import Text Mesh Pro in project, follow Unity's instructions:
+* **Text Mesh Pro**: To import Text Mesh Pro in project, follow Unity's instructions:
 https://learn.unity.com/tutorial/textmesh-pro-importing-the-package#
 
 
