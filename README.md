@@ -21,5 +21,6 @@ https://learn.unity.com/tutorial/textmesh-pro-importing-the-package#
 
 A gateway for handling app authentication. As IGDB uses app tokens and not user tokens, the idea behind this gateway is to store the app token and manage its retrieval and update, avoiding the app from managing this sensible information direcctly. **At the moment of writing**, it is conformed by a single PHP script that just connects to IGDB and retrieves some hardcoded data.
 
+# Captures
 
 <img src="https://user-images.githubusercontent.com/37219448/127751327-d0f0c6af-ff82-4523-8319-726d3cce7d80.gif"/>
