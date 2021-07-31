@@ -5,8 +5,23 @@ My Game Shelf App is an Android application for keeping track of your personal v
 
 //Summary of game info tracked and plans for the future
 
-# Dependencies
+# Contents
+
+## 1- Unity project: U_GameShelfApp
+
+The app's source code. At the moment of writing only the searching fucntionality is implemented.
+
+- Unity version: 2021.1.3f1
+
+### Dependencies
 
 * **Text Mesh Pro**
 To import Text Mesh Pro in project, follow Unity's instructions:
 https://learn.unity.com/tutorial/textmesh-pro-importing-the-package#
+
+
+# 2- Web Services
+
+A PHP script for handling app authentication. At the moment of writing, it just connects to IGDB retrieving some hardcoded data.
+
+
