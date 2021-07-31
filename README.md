@@ -9,7 +9,7 @@ My Game Shelf App is an Android application for keeping track of your personal v
 
 ## 1- Unity project: U_GameShelfApp
 
-The app's source code. At the moment of writing only the searching fucntionality is implemented.
+The app's source code. At the moment of writing only the searching functionality is implemented.
 
 - Unity version: 2021.1.3f1
 
