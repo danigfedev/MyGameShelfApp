@@ -21,6 +21,6 @@ https://learn.unity.com/tutorial/textmesh-pro-importing-the-package#
 
 ## 2- Web Services
 
-A PHP script for handling app authentication. At the moment of writing, it just connects to IGDB retrieving some hardcoded data.
+A gateway for handling app authentication. As IGDB uses app tokens and not user tokens, the idea behind this gateway is to store the app token and manage its retrieval and update, avoiding the app from managing this sensible information direcctly. **At the moment of writing**, it is conformed by a single PHP script that just connects to IGDB and retrieves some hardcoded data.
 
 
